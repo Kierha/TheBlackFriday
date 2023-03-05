@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/loicpapazian/Travail/Projet/JeuVideo/TheBlackFriday/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/loicpapazian/Travail/Projet/JeuVideo/TheBlackFriday/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ME/7VKFNJGAUW1QWB9UJP2COC.uasset",
+				"/Users/loicpapazian/Travail/Projet/JeuVideo/TheBlackFriday/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"/Users/loicpapazian/Travail/Projet/JeuVideo/TheBlackFriday/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"/Users/loicpapazian/Travail/Projet/JeuVideo/TheBlackFriday/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DA/ECBUEY53NZGT47HZ7ZP4VT.uasset",
 				"C:/Users/lucie/Documents/GitHub/TheBlackFriday/Content/Blueprints/Bac_a_fruit.uasset",
 				"C:/Users/lucie/Documents/GitHub/TheBlackFriday/Content/Blueprints/Etagere_01_Caisson.uasset",
 				"C:/Users/lucie/Documents/GitHub/TheBlackFriday/Content/Modelisation/general/bac_a_fruit/bac_a_fruit_Bac.uasset",
