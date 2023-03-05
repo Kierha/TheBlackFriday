@@ -5406,3 +5406,34 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.05-12.16.57:153][392]LogDerivedDataCache: C:/Users/lucie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.124 and deleted 0 files with total size 0 MiB. Scanned 9468 files in 9329 folders with total size 1217 MiB.
 [2023.03.05-12.49.00:060][155]LogViewport: Scene viewport resized to 809x582, mode Windowed.
 [2023.03.05-12.49.01:123][157]LogViewport: Scene viewport resized to 2038x1254, mode Windowed.
+[2023.03.05-12.59.25:672][301]Cmd: TRANSACTION UNDO
+[2023.03.05-12.59.25:672][301]LogEditorTransaction: Undo Move Elements
+[2023.03.05-12.59.32:014][793]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_NPC.BP_NPC
+[2023.03.05-12.59.32:014][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.05-12.59.34:357][942]LogSlate: Window 'BP_NPC' being destroyed
+[2023.03.05-12.59.34:361][942]LogSlate: Window 'BP_NPC' being destroyed
+[2023.03.05-12.59.34:363][942]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2023.03.05-12.59.34:363][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.05-12.59.38:235][273]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_NPC.BP_NPC_C
+[2023.03.05-12.59.38:235][273]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_NPC.BP_NPC_C
+[2023.03.05-12.59.38:238][273]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_NPC.BP_NPC as actor: BP_NPC_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_0
+[2023.03.05-12.59.38:240][273]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_NPC.BP_NPC as actor: BP_NPC_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_0
+[2023.03.05-12.59.40:406][488]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_NPC.BP_NPC_C
+[2023.03.05-12.59.40:406][488]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_NPC.BP_NPC_C
+[2023.03.05-12.59.40:409][488]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_NPC.BP_NPC as actor: BP_NPC_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_74563C2223487B6C01_1425775934
+[2023.03.05-12.59.40:411][488]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_NPC.BP_NPC as actor: BP_NPC_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_74563C2223487B6C01_1425775934
+[2023.03.05-12.59.45:484][863]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.05-12.59.58:488][ 10]Cmd: DELETE
+[2023.03.05-12.59.58:488][ 10]Cmd: ACTOR DELETE
+[2023.03.05-12.59.58:493][ 10]LogEditorActor: Deleted Actor: BP_NPC_C
+[2023.03.05-12.59.58:535][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.03.05-12.59.58:570][ 10]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2023.03.05-13.00.11:969][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.05-13.00.12:035][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.03.05-13.00.12:069][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.05-13.00.12:093][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.05-13.00.12:097][236]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AF/YHY3MUSF7R0XI92EGLBIV4
+[2023.03.05-13.00.12:097][236]LogSavePackage: Moving '../../../../../../Users/lucie/Documents/GitHub/TheBlackFriday/Saved/YHY3MUSF7R0XI92EGLBIV4DB6160254C57E7174F9555A5597AED14.tmp' to '../../../../../../Users/lucie/Documents/GitHub/TheBlackFriday/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AF/YHY3MUSF7R0XI92EGLBIV4.uasset'
+[2023.03.05-13.00.12:103][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 13.2 sec)
+[2023.03.05-13.00.12:110][236]AssetCheck: New page: Asset Save: BP_NPC_C_UAID_74563C2223487B6C01_1425775934
+[2023.03.05-13.00.12:110][236]LogContentValidation: Display: Validating /Game/Blueprints/BP_NPC.BP_NPC_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_74563C2223487B6C01_1425775934
