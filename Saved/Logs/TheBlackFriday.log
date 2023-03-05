@@ -5403,3 +5403,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.05-12.08.21:357][205]LogContentValidation: Display: Validating /Game/Blueprints/Etagere_02_Caisson.Etagere_02_Caisson_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Etagere_02_Caisson_C_UAID_74563C222348726C01_1670357903
 [2023.03.05-12.08.21:357][205]LogContentValidation: Display: Validating /Game/Blueprints/Etagere_02_Caisson.Etagere_02_Caisson_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Etagere_02_Caisson_C_UAID_74563C222348726C01_1670359904
 [2023.03.05-12.08.21:357][205]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_25D2A963-451C7D51-A2B620B0-589D4BA6
+[2023.03.05-12.16.57:153][392]LogDerivedDataCache: C:/Users/lucie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.124 and deleted 0 files with total size 0 MiB. Scanned 9468 files in 9329 folders with total size 1217 MiB.
+[2023.03.05-12.49.00:060][155]LogViewport: Scene viewport resized to 809x582, mode Windowed.
+[2023.03.05-12.49.01:123][157]LogViewport: Scene viewport resized to 2038x1254, mode Windowed.
